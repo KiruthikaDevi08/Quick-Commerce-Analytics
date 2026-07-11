@@ -96,5 +96,21 @@ The project follows an end-to-end analytics pipeline, transforming raw retail tr
      Business Insights & Decision Support
 ```
 ---
+### 📈 Page 1 – Sales Analytics
+
+The Sales Analytics dashboard provides an overview of overall sales performance, product demand, customer activity, and ordering trends. It enables stakeholders to monitor business performance through key performance indicators and interactive visualizations.
+
+**Visuals Included**
+- KPI Cards (Total Orders, Total Products, Total Customers, Reorder Rate)
+- Top 10 Best-Selling Products
+- Product Distribution by Department
+- Peak Ordering Hours
+- Weekly Ordering Pattern
+- Top 10 Reordered Products
+
+> 📷 **Sales Analytics Dashboard**
+>
+><img width="374" height="212" alt="image" src="https://github.com/user-attachments/assets/e4922013-7fbb-4dd6-a23a-33d4fc0973a6" />
+
 
 
