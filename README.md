@@ -110,7 +110,9 @@ The Sales Analytics dashboard provides an overview of overall sales performance,
 
 > 📷 **Sales Analytics Dashboard**
 >
-><img width="374" height="212" alt="image" src="https://github.com/user-attachments/assets/e4922013-7fbb-4dd6-a23a-33d4fc0973a6" />
+><p align="center">
+  <img width="900" alt="Sales Analytics Dashboard" src="https://github.com/user-attachments/assets/e4922013-7fbb-4dd6-a23a-33d4fc0973a6" />
+</p>
 
 
 
