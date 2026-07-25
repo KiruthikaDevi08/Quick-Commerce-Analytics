@@ -208,32 +208,39 @@ Association rules with an average **Lift of 1.57** provide meaningful product re
 
 ## 📁 Repository Structure
 
+## 📂 Repository Structure
+
 ```text
 Quick-Commerce-Analytics/
 │
-├── Dashboard/
-│   └── Quick_Commerce_Analytics.pbix
+├── 📄 README.md
 │
-├── Dataset/
-│   ├── aisles.csv
-│   ├── departments.csv
-│   ├── order_products__prior.csv
-│   ├── orders.csv
-│   └── products.csv
-│
-├── Python/
-│   ├── cleaning.py
-│   ├── merging.py
-│   ├── marketbasket.py
-│   ├── market_basket.py
-│   └── clean_rules.py
-│
-├── Output/
-│   ├── market_basket_rules_clean.csv
-│   └── market_basket_rules.csv
-│
-└── README.md
+└── 📄 Project Files.md
+    └── Provides the Google Drive link to access:
+        │
+        └── Quick Commerce Analytics/
+            │
+            ├── Dataset/
+            │   ├── aisles.csv
+            │   ├── departments.csv
+            │   ├── order_products__prior.csv
+            │   ├── orders.csv
+            │   └── products.csv
+            │
+            ├── Final Dataset/
+            │   ├── instamart_final.csv
+            │   ├── market_basket_rules.csv
+            │   └── market_basket_rules_clean.csv
+            │
+            ├── Python Code/
+            │   ├── cleaning.py
+            │   ├── merging.py
+            │   ├── market_basket.py
+            │   ├── marketbasket.py
+            │   └── clean_rules.py
+            │
+            └── Quick Commerce Analytics Dashboard/
+                └── Quick Commerce Analytics.pbix
 ```
-
 
 
